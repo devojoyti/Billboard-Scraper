@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/devojoyti/Billboard-Scraper.svg?branch=master)](https://travis-ci.org/devojoyti/Billboard-Scraper)
+
 # Billboard-Scraper
 
 
